@@ -24,14 +24,15 @@
  
 .menu__btn {
 	display: flex;
-	align-items: center;
-	position: relative;
-	top: -17px;
-	left:1251px;
-	width: 32px;
-	height: 32px;
- 
-	cursor: pointer;
+    position: fixed;
+    bottom: 0;
+    right: 20px;
+    align-items: center;
+    top: 10px;
+    width: 32px;
+    height: 32px;
+    cursor: pointer;
+	z-index: 999999;
 	
 }
 .menu {
