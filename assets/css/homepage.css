@@ -33,6 +33,19 @@
     font-style: normal;
 }
 .Firstblock{
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+}
+.block_3{
+    top:-2394px;
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+}
+.block_4{
+    top: -3881px;
+    position: relative;
     width: 100vw;
     height: 100vh;
 }
@@ -88,8 +101,8 @@
 
 #centr {
     position: absolute;
-    width: 100vw;
-    height: 100vh;
+    width: 100%;
+    height: 100%;
     left: 0px;
     top: 0px;
 
